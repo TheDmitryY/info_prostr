@@ -68,6 +68,7 @@
 
 <br />
 
+--- 
 
 <div align="center">
 <img src="images/platforms.png">
@@ -86,6 +87,8 @@
 | Dou                   | Українська спільнота програмістів        | <a href="https://dou.ua/"> Open </a>
 
 <br />
+
+--- 
 
 <div align="center">
   <img src="images/links.png"

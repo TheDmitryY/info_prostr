@@ -85,6 +85,22 @@
 | SourceForge           | Спільнота розробників відкритого программного забезпечення | <a href="https://sourceforge.net/ "> Open </a> | 
 | Dou                   | Українська спільнота програмістів        | <a href="https://dou.ua/"> Open </a>
 
+<br />
+
+<div align="center">
+  <img src="images/links.png"
+</div>
+
+<br />
+
+| Service                           | Link                                     |
+|-----------------------------------|------------------------------------------|
+| Модульне середовище               | <a href="https://msn.khmnu.edu.ua/"> Open </a> |
+| Інформаційна система              | <a href="https://isu1.khmnu.edu.ua/isu/"> Open </a> | 
+| Кооперативна пошта                | <a href="https://docs.google.com/forms/d/1cUD9rGjSm4gyIsAwFperLnSpV0FZFPOcVDdoaAe0Sxs/viewform?edit_requested=true"> Open </a> |
+
+<br />
+
 ## Authors
 
 **© Проект створенний Cтуденьскою радою ФІТ Хмельницього Національного Університету, з приводу питаннь просимо звертатись до нашої [інстаграм](https://www.instagram.com/sr_fit_khnu/) сторінки.**

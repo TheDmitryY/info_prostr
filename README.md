@@ -6,13 +6,13 @@
 </div>
 
 > [!NOTE]
-> Студенська рада ФІТ активно працює для покращення навчання, доброту та студенського життя наших студентів. Оформіть підписочку на нашу сторінку [Instagram](https://www.instagram.com/sr_fit_khnu/), щоб слідкувати за новими новинами та подіями.  Дякую!
+> Студенська рада ФІТ активно працює для покращення навчання, доброботу та студенського життя наших студентів. Оформіть підписочку на нашу сторінку [Instagram](https://www.instagram.com/sr_fit_khnu/), щоб слідкувати за новими новинами та подіями.  Дякую!
 
 ## Courses
 
 | Stack | Description | Certified | Platform |
 |----------|-------------|----------|----------|
-| Python | Python for database | ✅ | <a href="https://prometheus.org.ua/prometheus-free/python-for-databases/"> Open </a> |
+| Python | Python for database |<p align="center"> ✅</p> | <a href="https://prometheus.org.ua/prometheus-free/python-for-databases/"> Open </a> |
 | Python | Python for webdev | ✅ | <a href="https://prometheus.org.ua/prometheus-free/python-for-the-web/"> Open </a> |
 
 

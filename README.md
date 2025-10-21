@@ -12,7 +12,7 @@
 
 | Stack | Description | Certified | Platform |
 |----------|-------------|----------|----------|
-| Python | Python for database | ✅ | <a href=" https://prometheus.org.ua/prometheus-free/python-for-databases/"> Open </a> |
+| Python | Python for database | ✅ | <a href="https://prometheus.org.ua/prometheus-free/python-for-databases/"> Open </a> |
 | Python | Python for webdev | ✅ | <a href="https://prometheus.org.ua/prometheus-free/python-for-the-web/"> Open </a> |
 
 

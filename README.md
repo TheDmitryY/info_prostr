@@ -14,6 +14,7 @@
 |----------|-------------|----------|----------|
 | Python | Python for database |<p align="center"> ✅</p> | <a href="https://prometheus.org.ua/prometheus-free/python-for-databases/"> Open </a> |
 | Python | Python for webdev |<p align="center"> ✅</p> | <a href="https://prometheus.org.ua/prometheus-free/python-for-the-web/"> Open </a> |
+| Git | Git, Github for newbies | <p align="center"> ❌</p> | <a href="https://www.youtube.com/watch?v=9CnZihyYjjA"> Open </a> |
 
 
 

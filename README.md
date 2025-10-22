@@ -45,7 +45,7 @@
 | Django | Django Framework for Python backend development | <p align="center">❌ </p> | Course | <a href="https://www.youtube.com/playlist?list=PL7vq4D0vOpQYVMg_x9tfqQdyF-LE3ar0b"> Open </a> |
 | C | C for newbies | <p align="center">❌ </p> | Course | <a href="https://www.youtube.com/playlist?list=PL7vq4D0vOpQaL3Z9NPCAKlQZb9nL-Z4KT"> Open </a> |
 | Kotlin | Kotlin foundation | <p align="center">❌  </p> | Course | <a href="https://www.youtube.com/playlist?list=PL3o5sNxukLFBJYifmCcHpwXZSql5-OFB0"> Open </a> |
-| Multithreading | Multithreading, Asynchrony, Parallelism for software development | <p align="center"> </p> | Course | <a href="https://www.youtube.com/playlist?list=PL3o5sNxukLFDWj_K2TbX3t7czyIaYz27v"> Open </a> |
+| Multithreading | Multithreading, Asynchrony, Parallelism for software development | <p align="center">❌ </p> | Course | <a href="https://www.youtube.com/playlist?list=PL3o5sNxukLFDWj_K2TbX3t7czyIaYz27v"> Open </a> |
 | Dart | Dart foundation for mobile development | <p align="center">❌ </p> | Course | <a href="https://www.youtube.com/playlist?list=PLjldgCmsTrbXjIzZgudGjGzHyVjZLvA-4"> Open </a> |
 | Figma | Figma foundation | <p align="center">❌ </p> | Course | <a href="https://www.youtube.com/playlist?list=PL8tQNNqrETs2L4E29riLNZPx1U55hmYwd"> Open </a> |
 | UI | UI design preview | <p align="center">❌ </p> | Course | <a href="https://www.youtube.com/playlist?list=PL8tQNNqrETs3-PY5ihMfipSkicnhrtSsq"> Open </a> |
@@ -55,11 +55,11 @@
 | Computer Architecture | Computer Architecture, repair foundation | <p align="center">❌ </p> | Course | <a href="https://www.youtube.com/playlist?list=PL3rfwTch2OWwn9GaNQAPuHVOV3c9Dc90l"> Open </a> |
 | Go | Go language for newbies | <p align="center">❌ </p> | Course | <a href="https://www.youtube.com/playlist?list=PLxMmZTMfwi9dem4tOwQ5BZl7OBy8pkw90"> Open </a> |
 | Rust | Rust foundation | <p align="center">❌ </p> | Course | <a href="https://www.youtube.com/playlist?list=PLQqF4TbRWl0faftAUnMd2kWzV8vvvu3oK"> Open </a> |
-| Assembler | Assembler foundation | <p align="center"> </p> | Course | <a href="https://www.youtube.com/playlist?list=PLQqF4TbRWl0flCYyl_yxk5k1nfIrm_mBb"> Open </a> |
-| AWS | Amazon Web Services foundation | <p align="center"> </p> | Course | <a href="https://www.youtube.com/playlist?list=PLiv5DsFFzt7T_Ca2iuBBWNxuzolJKnTOM"> Open </a> |
-| Docker | What is docker and what it do | <p align="center"> </p> | Video | <a href="https://www.youtube.com/watch?v=dPvXEcIell0"> Open </a> |
-| Docker | Docker for frontend devlopers | <p align="center"> </p> | Video | <a href="https://www.youtube.com/watch?v=NXoPKCLYjJY"> Open </a> |
-| PostgreSQL | PostgreSQL and DBMS | <p align="center"> </p> | Course | <a href="https://www.youtube.com/watch?v=mjH4qo8s0n0"> Open </a> |
-| System Administration | <p> align="center"> </p> | Course | <a href="https://www.youtube.com/watch?v=rWLgcbixkF8"> Open </a> |
+| Assembler | Assembler foundation | <p align="center">❌ </p> | Course | <a href="https://www.youtube.com/playlist?list=PLQqF4TbRWl0flCYyl_yxk5k1nfIrm_mBb"> Open </a> |
+| AWS | Amazon Web Services foundation | <p align="center">❌ </p> | Course | <a href="https://www.youtube.com/playlist?list=PLiv5DsFFzt7T_Ca2iuBBWNxuzolJKnTOM"> Open </a> |
+| Docker | What is docker and what it do | <p align="center">❌ </p> | Video | <a href="https://www.youtube.com/watch?v=dPvXEcIell0"> Open </a> |
+| Docker | Docker for frontend devlopers | <p align="center">❌ </p> | Video | <a href="https://www.youtube.com/watch?v=NXoPKCLYjJY"> Open </a> |
+| PostgreSQL | PostgreSQL and DBMS | <p align="center">❌ </p> | Course | <a href="https://www.youtube.com/watch?v=mjH4qo8s0n0"> Open </a> |
+| System Administration | <p align="center">❌ </p> | Course | <a href="https://www.youtube.com/watch?v=rWLgcbixkF8"> Open </a> |
 
 

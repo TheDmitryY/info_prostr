@@ -6,9 +6,9 @@
 </div>
 
 > [!NOTE]
-> Студенська рада ФІТ активно працює для покращення навчання, доброботу та студенського життя наших студентів. Оформіть підписочку на нашу сторінку [Instagram](https://www.instagram.com/sr_fit_khnu/), щоб слідкувати за новими новинами та подіями.  Дякую!
+> Студенська рада ФІТ активно працює для покращення навчання, добробуту та студенського життя наших студентів. Оформіть підписочку на нашу сторінку [Instagram](https://www.instagram.com/sr_fit_khnu/), щоб слідкувати за новими новинами та подіями.  Дякую!
 
-## Courses
+## Information
 
 | Stack | Description | Certified | Category  |Platform |
 |----------|----------------------|----------|----------|----------|
@@ -62,4 +62,11 @@
 | PostgreSQL | PostgreSQL and DBMS | <p align="center">❌ </p> | Course | <a href="https://www.youtube.com/watch?v=mjH4qo8s0n0"> Open </a> |
 | System Administration | Windows Server administration foundation | <p align="center">❌ </p> | Course | <a href="https://www.youtube.com/watch?v=rWLgcbixkF8"> Open </a> |
 
+> [!NOTE]
+> Пояснюємо, що означає "Certified" в таблиці. Certified курсами в таблиці вважаються ті, за проходження який в кінцевому результаті ви зможете отримати власний сертифікат про закінчення певного курса!
+
+
+## Authors
+
+**© Проект створенний Cтуденьскою радою Факультету Інформаційних Технологій Хмельницього Національного Університету, з приводу питання просимо звертатись до нашої [інстаграм](https://www.instagram.com/sr_fit_khnu/) сторінки.**
 

@@ -60,6 +60,6 @@
 | Docker | What is docker and what it do | <p align="center">❌ </p> | Video | <a href="https://www.youtube.com/watch?v=dPvXEcIell0"> Open </a> |
 | Docker | Docker for frontend devlopers | <p align="center">❌ </p> | Video | <a href="https://www.youtube.com/watch?v=NXoPKCLYjJY"> Open </a> |
 | PostgreSQL | PostgreSQL and DBMS | <p align="center">❌ </p> | Course | <a href="https://www.youtube.com/watch?v=mjH4qo8s0n0"> Open </a> |
-| System Administration | <p align="center">❌ </p> | Course | <a href="https://www.youtube.com/watch?v=rWLgcbixkF8"> Open </a> |
+| System Administration | Windows Server administration foundation | <p align="center">❌ </p> | Course | <a href="https://www.youtube.com/watch?v=rWLgcbixkF8"> Open </a> |
 
 

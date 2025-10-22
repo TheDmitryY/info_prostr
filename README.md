@@ -51,7 +51,7 @@
 | UI | UI design preview | <p align="center">❌ </p> | Course | <a href="https://www.youtube.com/playlist?list=PL8tQNNqrETs3-PY5ihMfipSkicnhrtSsq"> Open </a> |
 | React | React foundation | <p align="center">❌ </p> | Course | <a href="https://www.youtube.com/playlist?list=PLVSKBfwSePNU34NXQiZ7TWwsnM6jKr72X"> Open </a> |
 | TypeScript | TypeScript for newbies, foundation | <p align="center">❌ </p> | Course | <a href="https://www.youtube.com/playlist?list=PLVSKBfwSePNX6I-IWb8KFPREzYwSf1BBi"> Open </a> |
-| Computer Networks | Computer Networks foundation (TCP/UPD, OSI) | <p align="center">❌ </p> | Course | <a href="https://www.youtube.com/playlist?list=PLjVjn9bYZbjvQaLxF32AD6XVBuH66BK3C"> Open </a> |
+| Computer Networks | Computer Networks foundation (TCP/UDP, OSI) | <p align="center">❌ </p> | Course | <a href="https://www.youtube.com/playlist?list=PLjVjn9bYZbjvQaLxF32AD6XVBuH66BK3C"> Open </a> |
 | Computer Architecture | Computer Architecture, repair foundation | <p align="center">❌ </p> | Course | <a href="https://www.youtube.com/playlist?list=PL3rfwTch2OWwn9GaNQAPuHVOV3c9Dc90l"> Open </a> |
 | Go | Go language for newbies | <p align="center">❌ </p> | Course | <a href="https://www.youtube.com/playlist?list=PLxMmZTMfwi9dem4tOwQ5BZl7OBy8pkw90"> Open </a> |
 | Rust | Rust foundation | <p align="center">❌ </p> | Course | <a href="https://www.youtube.com/playlist?list=PLQqF4TbRWl0faftAUnMd2kWzV8vvvu3oK"> Open </a> |

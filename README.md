@@ -15,6 +15,7 @@
 | Python | Python for database |<p align="center"> ✅</p> | Course | <a href="https://prometheus.org.ua/prometheus-free/python-for-databases/"> Open </a> |
 | Python | Python for webdev |<p align="center"> ✅</p> | Course | <a href="https://prometheus.org.ua/prometheus-free/python-for-the-web/"> Open </a> |
 | Python | Python for newbies | <p align="center">❌ </p> | Course | <a href="https://www.youtube.com/playlist?list=PL7vq4D0vOpQb-nious5dTzUF9GEMp6jiL"> Open </a>
+| Python | Python foundation | <p align="center">  </p > | Course | <a href="https://prometheus.org.ua/prometheus-free/python-fundamentals-for-everyone"> Open </a> |
 | Git | Git, Github for newbies | <p align="center"> ❌</p> | Video | <a href="https://www.youtube.com/watch?v=9CnZihyYjjA"> Open </a> |
 | Git | Git for software development | <p align="center"> ✅</p> | Course | <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://prometheus.org.ua/prometheus-free/git-for-distributed-software/&ved=2ahUKEwiu4KWGsriQAxXNSvEDHbT3Jk0QFnoECB0QAQ&usg=AOvVaw3f3lB0sBiUekQ2yGdYoeeI"> Open </a> |
 | Redis | Redis for newbies | <p align="center"> ❌</p> | Video | <a href="https://youtu.be/45BiGCFU_x8?si=zG8e-MOyQ2BGEcv8"> Open </a> |
@@ -49,6 +50,7 @@
 | Dart | Dart foundation for mobile development | <p align="center">❌ </p> | Course | <a href="https://www.youtube.com/playlist?list=PLjldgCmsTrbXjIzZgudGjGzHyVjZLvA-4"> Open </a> |
 | Figma | Figma foundation | <p align="center">❌ </p> | Course | <a href="https://www.youtube.com/playlist?list=PL8tQNNqrETs2L4E29riLNZPx1U55hmYwd"> Open </a> |
 | UI | UI design preview | <p align="center">❌ </p> | Course | <a href="https://www.youtube.com/playlist?list=PL8tQNNqrETs3-PY5ihMfipSkicnhrtSsq"> Open </a> |
+| UI | Web UI foundation | <p align="center"> </p> | Course | <a href="https://prometheus.org.ua/prometheus-free/web-ui-development-basics"> Open </a> |
 | React | React foundation | <p align="center">❌ </p> | Course | <a href="https://www.youtube.com/playlist?list=PLVSKBfwSePNU34NXQiZ7TWwsnM6jKr72X"> Open </a> |
 | TypeScript | TypeScript for newbies, foundation | <p align="center">❌ </p> | Course | <a href="https://www.youtube.com/playlist?list=PLVSKBfwSePNX6I-IWb8KFPREzYwSf1BBi"> Open </a> |
 | Computer Networks | Computer Networks foundation (TCP/UDP, OSI) | <p align="center">❌ </p> | Course | <a href="https://www.youtube.com/playlist?list=PLjVjn9bYZbjvQaLxF32AD6XVBuH66BK3C"> Open </a> |
@@ -61,9 +63,21 @@
 | Docker | Docker for frontend devlopers | <p align="center">❌ </p> | Video | <a href="https://www.youtube.com/watch?v=NXoPKCLYjJY"> Open </a> |
 | PostgreSQL | PostgreSQL and DBMS | <p align="center">❌ </p> | Course | <a href="https://www.youtube.com/watch?v=mjH4qo8s0n0"> Open </a> |
 | System Administration | Windows Server administration foundation | <p align="center">❌ </p> | Course | <a href="https://www.youtube.com/watch?v=rWLgcbixkF8"> Open </a> |
+| Blockchain | Blockchain foundation | <p align="center"> </p> | Course | <a href="https://prometheus.org.ua/prometheus-free/solidity-smart-contracts/"> Open </a> |
+| Information security | <p align="center"> </p> | Course | <a href="https://prometheus.org.ua/prometheus-free/%d1%96%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d1%96%d0%b9%d0%bd%d0%b0-%d0%b1%d0%b5%d0%b7%d0%bf%d0%b5%d0%ba%d0%b0"> Open </a> |
+
+
 
 > [!NOTE]
 > Пояснюємо, що означає "Certified" в таблиці. Certified курсами в таблиці вважаються ті, за проходження який в кінцевому результаті ви зможете отримати власний сертифікат про закінчення певного курса!
+
+## Platforms
+
+| Name | Description | Link |
+|----------|----------------------|----------|----------|----------|
+| Stack Overflow | Форум для программістів | <a href="https://stackoverflow.com/questions"> Open </a> |
+| IT & Digital Academia | Академія з новинами, подіями ІТ напрямку | <a href="https://t.me/it_academy_ua"> Open </a> |
+| Лекторії | Канал про освіту, події ІТ і не тільки | <a href="https://t.me/+-sfcCPOORVQ2MjNi"> Open </a> |
 
 
 ## Authors

@@ -72,7 +72,7 @@
 | Stack Overflow        | Форум з запитаннями для программістів    | <a href="https://stackoverflow.com/questions"> Open </a> |
 | IT & Digital Academia | Академія з новинами, подіями ІТ напрямку | <a href="https://t.me/it_academy_ua"> Open </a>          |
 | Лекторій              | Канал про освіту, події ІТ і не тільки   | <a href="https://t.me/+-sfcCPOORVQ2MjNi"> Open </a>      |
-| Replace               | Український форму программістів          | <a href="https://replace.org.ua/"> Open </a>             |
+| Replace               | Український форум программістів          | <a href="https://replace.org.ua/"> Open </a>             |
 
 
 ## Authors

@@ -61,7 +61,7 @@
 | Information security  | Information security foundation                                  | <p align="center">✅ </p>   | Course   | <a href="https://prometheus.org.ua/prometheus-free/%d1%96%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d1%96%d0%b9%d0%bd%d0%b0-%d0%b1%d0%b5%d0%b7%d0%bf%d0%b5%d0%ba%d0%b0"> Open </a>                                                              |
 
 
-
+<br />
 > [!NOTE]
 > Пояснюємо, що означає "Certified" в таблиці. Certified курсами в таблиці вважаються ті, за проходження який в кінцевому результаті ви зможете отримати власний сертифікат про закінчення певного курса!
 

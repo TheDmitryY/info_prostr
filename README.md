@@ -61,11 +61,18 @@
 | Information security  | Information security foundation                                  | <p align="center">✅ </p>   | Course   | <a href="https://prometheus.org.ua/prometheus-free/%d1%96%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d1%96%d0%b9%d0%bd%d0%b0-%d0%b1%d0%b5%d0%b7%d0%bf%d0%b5%d0%ba%d0%b0"> Open </a>                                                              |
 
 
+<br />
 
 > [!NOTE]
 > Пояснюємо, що означає "Certified" в таблиці. Certified курсами в таблиці вважаються ті, за проходження який в кінцевому результаті ви зможете отримати власний сертифікат про закінчення певного курса!
 
-## Platforms
+<br />
+
+
+<div align="center">
+<img src="images/platforms.png">
+</div>
+<br />
 
 | Name                  | Description                              | Link                                                     |
 | --------------------- | ---------------------------------------- | -------------------------------------------------------- |
@@ -73,7 +80,10 @@
 | IT & Digital Academia | Академія з новинами, подіями ІТ напрямку | <a href="https://t.me/it_academy_ua"> Open </a>          |
 | Лекторій              | Канал про освіту, події ІТ і не тільки   | <a href="https://t.me/+-sfcCPOORVQ2MjNi"> Open </a>      |
 | Replace               | Український форум программістів          | <a href="https://replace.org.ua/"> Open </a>             |
-
+| Дія.Освіта            | Освітня платформа від Мінцифри           | <a href="https://osvita.diia.gov.ua/ "> Open </a>        |
+| IT Education Center Blog | Український блог(статті, новини, порівняння, релізи) | <a href="https://itedu.center/ua/blog/"> Open </a> |
+| SourceForge           | Спільнота розробників відкритого программного забезпечення | <a href="https://sourceforge.net/ "> Open </a> | 
+| Dou                   | Українська спільнота програмістів        | <a href="https://dou.ua/"> Open </a>
 
 ## Authors
 

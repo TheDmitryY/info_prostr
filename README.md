@@ -65,7 +65,9 @@
 > [!NOTE]
 > Пояснюємо, що означає "Certified" в таблиці. Certified курсами в таблиці вважаються ті, за проходження який в кінцевому результаті ви зможете отримати власний сертифікат про закінчення певного курса!
 
-## Platforms
+<div align="center">
+<img src="images/platforms">
+</div>
 
 | Name                  | Description                              | Link                                                     |
 | --------------------- | ---------------------------------------- | -------------------------------------------------------- |
@@ -73,7 +75,10 @@
 | IT & Digital Academia | Академія з новинами, подіями ІТ напрямку | <a href="https://t.me/it_academy_ua"> Open </a>          |
 | Лекторій              | Канал про освіту, події ІТ і не тільки   | <a href="https://t.me/+-sfcCPOORVQ2MjNi"> Open </a>      |
 | Replace               | Український форум программістів          | <a href="https://replace.org.ua/"> Open </a>             |
-
+| Дія.Освіта            | Освітня платформа від Мінцифри           | <a href="https://osvita.diia.gov.ua/ "> Open </a>        |
+| IT Education Center Blog | Український блог(статті, новини, порівняння, релізи) | <a href="https://itedu.center/ua/blog/"> Open </a> |
+| SourceForge           | Спільнота розробників відкритого программного забезпечення | <a href="https://sourceforge.net/ "> Open </a> | 
+| Dou                   | Українська спільнота програмістів        | <a href="https://dou.ua/"> Open </a>
 
 ## Authors
 

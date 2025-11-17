@@ -69,6 +69,8 @@
 <img src="images/platforms.png">
 </div>
 
+## Platforms
+
 | Name                  | Description                              | Link                                                     |
 | --------------------- | ---------------------------------------- | -------------------------------------------------------- |
 | Stack Overflow        | Форум з запитаннями для программістів    | <a href="https://stackoverflow.com/questions"> Open </a> |

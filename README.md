@@ -66,7 +66,7 @@
 > Пояснюємо, що означає "Certified" в таблиці. Certified курсами в таблиці вважаються ті, за проходження який в кінцевому результаті ви зможете отримати власний сертифікат про закінчення певного курса!
 
 <div align="center">
-<img src="images/platforms">
+<img src="images/platforms.png">
 </div>
 
 | Name                  | Description                              | Link                                                     |

@@ -1,14 +1,28 @@
 <div align="center">
 <img src="images/logo.png">
-    <p align="center">
-        🔗 <a href="https://www.instagram.com/sr_fit_khnu/"> Instagram </a>
-    </p>
 </div>
+
+<div align="center">
+  <img src="https://img.shields.io/github/last-commit/TheDmitryY/info_prostr?style=for-the-badge&color=060833&logo=git&logoColor=D9E0EE&labelColor=1E202B" alt="Last Commit" />
+  <img src="https://img.shields.io/github/v/release/TheDmitryY/info_prostr?style=for-the-badge&color=060833&logo=paperlessngx&logoColor=D9E0EE&labelColor=1E202B" alt="Release" />
+  <img src="https://img.shields.io/github/stars/TheDmitryY/info_prostr?style=for-the-badge&logo=andela&color=060833&logoColor=D9E0EE&labelColor=1E202B" alt="Stars" /> <br>
+
+  <a href="https://www.instagram.com/sr_fit_khnu/">
+    <img src="https://img.shields.io/badge/instagram-open?style=for-the-badge&logo=instagram&color=060833&logoColor=D9E0EE&labelColor=1E202B" alt="Instagram" />
+
+  </a>
+</div>
+
 
 > [!NOTE]
 > Студенська рада ФІТ активно працює для покращення навчання, добробуту та студенського життя наших студентів. Оформіть підписочку на нашу сторінку [Instagram](https://www.instagram.com/sr_fit_khnu/), щоб слідкувати за новими новинами та подіями.  Дякую!
 
-## Information
+<details>
+  <summary> <b>Інформація</b> </summary>
+
+<div align="center">
+  <img src="images/info.png">
+  </div>
 
 | Stack                 | Description                                                      | Certified                  | Category | Platform                                                                                                                                                                                                                                        |
 | --------------------- | ---------------------------------------------------------------- | -------------------------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -61,14 +75,13 @@
 | Information security  | Information security foundation                                  | <p align="center">✅ </p>   | Course   | <a href="https://prometheus.org.ua/prometheus-free/%d1%96%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d1%96%d0%b9%d0%bd%d0%b0-%d0%b1%d0%b5%d0%b7%d0%bf%d0%b5%d0%ba%d0%b0"> Open </a>                                                              |
 
 
-<br />
 
-> [!NOTE]
-> Пояснюємо, що означає "Certified" в таблиці. Certified курсами в таблиці вважаються ті, за проходження який в кінцевому результаті ви зможете отримати власний сертифікат про закінчення певного курса!
+**Пояснюємо, що означає "Certified" в таблиці. Certified курсами в таблиці вважаються ті, за проходження який в кінцевому результаті ви зможете отримати власний сертифікат про закінчення певного курса!**
 
-<br />
+</details>
 
-
+<details>
+<summary> <b>Платформи</b> </summary>
 <div align="center">
 <img src="images/platforms.png">
 </div>
@@ -87,6 +100,11 @@
 
 <br />
 
+</details>
+
+<details>
+
+<summary> <b>Актуальні посилання</b> </summary>
 <div align="center">
   <img src="images/links.png"
 </div>
@@ -101,7 +119,13 @@
 
 <br />
 
+</details>
+
+
+-----------------------------------------
 ## Authors
 
-**© З приводу питаннь просимо звертатись до нашої [інстаграм](https://www.instagram.com/sr_fit_khnu/) сторінки.**
+
+**© Проект створенний Cтуденьскою радою ФІТ Хмельницього Національного Університету, з приводу питаннь просимо звертатись до нашої [інстаграм](https://www.instagram.com/sr_fit_khnu/) сторінки або в меню [обговореннь](https://github.com/TheDmitryY/info_prostr/discussions).**
+
 

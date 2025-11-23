@@ -1,12 +1,10 @@
 <div align="center">
 <img src="images/logo.png">
-    <p align="center">
-    ![](https://img.shields.io/github/last-commit/TheDmitryY/info_prostr?&style=for-the-badge&color=060833&logo=git&logoColor=D9E0EE&labelColor=1E202B)
-    ![](https://img.shields.io/github/stars/TheDmitryY/info_prostr?style=for-the-badge&logo=andela&color=060833&logoColor=D9E0EE&labelColor=1E202B)
-    ![https://www.instagram.com/sr_fit_khnu/](https://img.shields.io/badge/instagram-open?style=for-the-badge&logo=instagram&color=060833&logoColor=D9E0EE&labelColor=1E202B)
+  -----------------------------------
+  ![](https://img.shields.io/github/last-commit/TheDmitryY/info_prostr?&style=for-the-badge&color=060833&logo=git&logoColor=D9E0EE&labelColor=1E202B)
+  ![](https://img.shields.io/github/stars/TheDmitryY/info_prostr?style=for-the-badge&logo=andela&color=060833&logoColor=D9E0EE&labelColor=1E202B)
+  ![https://www.instagram.com/sr_fit_khnu/](https://img.shields.io/badge/instagram-open?style=for-the-badge&logo=instagram&color=060833&logoColor=D9E0EE&labelColor=1E202B)
 
-
-    </p>
 </div>
 
 > [!NOTE]

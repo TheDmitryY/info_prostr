@@ -4,11 +4,12 @@
 
 <div align="center">
   <img src="https://img.shields.io/github/last-commit/TheDmitryY/info_prostr?style=for-the-badge&color=060833&logo=git&logoColor=D9E0EE&labelColor=1E202B" alt="Last Commit" />
-  
-  <img src="https://img.shields.io/github/stars/TheDmitryY/info_prostr?style=for-the-badge&logo=andela&color=060833&logoColor=D9E0EE&labelColor=1E202B" alt="Stars" />
+  <img src="https://img.shields.io/github/v/release/TheDmitryY/info_prostr?style=for-the-badge&color=060833&logo=paperlessngx&logoColor=D9E0EE&labelColor=1E202B" alt="Release" />
+  <img src="https://img.shields.io/github/stars/TheDmitryY/info_prostr?style=for-the-badge&logo=andela&color=060833&logoColor=D9E0EE&labelColor=1E202B" alt="Stars" /> <br>
 
   <a href="https://www.instagram.com/sr_fit_khnu/">
     <img src="https://img.shields.io/badge/instagram-open?style=for-the-badge&logo=instagram&color=060833&logoColor=D9E0EE&labelColor=1E202B" alt="Instagram" />
+
   </a>
 </div>
 

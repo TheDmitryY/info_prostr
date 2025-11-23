@@ -116,7 +116,7 @@
 | Модульне середовище               | <a href="https://msn.khmnu.edu.ua/"> Open </a> |
 | Інформаційна система              | <a href="https://isu1.khmnu.edu.ua/isu/"> Open </a> | 
 | Кооперативна пошта                | <a href="https://docs.google.com/forms/d/1cUD9rGjSm4gyIsAwFperLnSpV0FZFPOcVDdoaAe0Sxs/viewform?edit_requested=true"> Open </a> |
-
+| Форма для вступу в СР ФІТ         | <a href="https://docs.google.com/forms/d/e/1FAIpQLSc2Jv2HEGSYZOZPr7u-tKvsTiyLW3T1k45bw593HrrMf68VAQ/viewform?usp=dialog&fbclid=PAdGRleAOQRdZleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAaeaw-BzC80Sy8D24BKhPG_zQBGVoOLDMBsuC4CVDFvcuH07cIAaqqfpJzJa_Q_aem__a79kc9SWvx0PD2CXefAOg"> Open </a> |
 <br />
 
 </details>

@@ -96,7 +96,8 @@
 | Дія.Освіта            | Освітня платформа від Мінцифри           | <a href="https://osvita.diia.gov.ua/ "> Open </a>        |
 | IT Education Center Blog | Український блог(статті, новини, порівняння, релізи) | <a href="https://itedu.center/ua/blog/"> Open </a> |
 | SourceForge           | Спільнота розробників відкритого программного забезпечення | <a href="https://sourceforge.net/ "> Open </a> | 
-| Dou                   | Українська спільнота програмістів        | <a href="https://dou.ua/"> Open </a>
+| Dou                   | Українська спільнота програмістів        | <a href="https://dou.ua/"> Open </a> |
+| Djinni                | Платформа, для найму спеціалістів        | <a href="https://djinni.co/"> Open </a> |
 
 <br />
 
@@ -105,6 +106,7 @@
 <details>
 
 <summary> <b>Актуальні посилання</b> </summary>
+<br />
 <div align="center">
   <img src="images/links.png"
 </div>

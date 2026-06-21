@@ -104,6 +104,127 @@
 
 <details>
 
+<summary> <b>100+ Роадмапів для ІТ-спеціальностей</b> </summary>
+
+Цей перелік містить офіційні та верифіковані ком'юніті роадмапи, структуровані за категоріями. Він допоможе обрати технологічний стек, підготуватися до першої роботи або розширити знання в архітектурі та суміжних напрямках.
+
+| Спеціальність / Технологічний трек | Посилання на roadmap.sh |
+| :--- | :--- |
+| **Базові інженерні ролі (Core Roles)** | |
+| Frontend Developer | [roadmap.sh/frontend](https://roadmap.sh/frontend) |
+| Backend Developer | [roadmap.sh/backend](https://roadmap.sh/backend) |
+| DevOps Engineer | [roadmap.sh/devops](https://roadmap.sh/devops) |
+| Full Stack Developer | [roadmap.sh/full-stack](https://roadmap.sh/full-stack) |
+| Cyber Security Analyst / Engineer | [roadmap.sh/cyber-security](https://roadmap.sh/cyber-security) |
+| AI and Data Scientist | [roadmap.sh/ai-data-scientist](https://roadmap.sh/ai-data-scientist) |
+| AI Engineer | [roadmap.sh/ai-engineer](https://roadmap.sh/ai-engineer) |
+| Data Analyst | [roadmap.sh/data-analyst](https://roadmap.sh/data-analyst) |
+| QA Engineer (Quality Assurance) | [roadmap.sh/qa](https://roadmap.sh/qa) |
+| Android Developer | [roadmap.sh/android](https://roadmap.sh/android) |
+| iOS Developer | [roadmap.sh/ios](https://roadmap.sh/ios) |
+| PostgreSQL DBA | [roadmap.sh/postgresql-analyst](https://roadmap.sh/postgresql-analyst) |
+| Software Architect | [roadmap.sh/software-architect](https://roadmap.sh/software-architect) |
+| Technical Writer | [roadmap.sh/technical-writer](https://roadmap.sh/technical-writer) |
+| **Менеджмент та Дизайн (Product & Design)** | |
+| Product Manager | [roadmap.sh/product-manager](https://roadmap.sh/product-manager) |
+| UX Design | [roadmap.sh/ux-design](https://roadmap.sh/ux-design) |
+| Game Developer | [roadmap.sh/game-developer](https://roadmap.sh/game-developer) |
+| **Штучний інтелект та Data Science (AI & ML Tracks)** | |
+| Prompt Engineering | [roadmap.sh/prompt-engineering](https://roadmap.sh/prompt-engineering) |
+| MLOps (Machine Learning Operations) | [roadmap.sh/mlops](https://roadmap.sh/mlops) |
+| Deep Learning Engineer | [roadmap.sh/deep-learning](https://roadmap.sh/deep-learning) |
+| Natural Language Processing (NLP) | [roadmap.sh/nlp](https://roadmap.sh/nlp) |
+| Computer Vision Engineer | [roadmap.sh/computer-vision](https://roadmap.sh/computer-vision) |
+| AI Agents Developer | [roadmap.sh/ai-agents](https://roadmap.sh/ai-agents) |
+| AI Red Teaming (Безпека ШІ) | [roadmap.sh/ai-red-teaming](https://roadmap.sh/ai-red-teaming) |
+| LLM Engineer (Community) | [roadmap.sh/r/llm-engineer](https://roadmap.sh/r/llm-engineer) |
+| Data Engineering | [roadmap.sh/data-engineer](https://roadmap.sh/data-engineer) |
+| **Мови програмування (Language Specific Roadmaps)** | |
+| Python Developer | [roadmap.sh/python](https://roadmap.sh/python) |
+| JavaScript Developer | [roadmap.sh/javascript](https://roadmap.sh/javascript) |
+| TypeScript Developer | [roadmap.sh/typescript](https://roadmap.sh/typescript) |
+| Java Developer | [roadmap.sh/java](https://roadmap.sh/java) |
+| Go (Golang) Developer | [roadmap.sh/golang](https://roadmap.sh/golang) |
+| Rust Developer | [roadmap.sh/rust](https://roadmap.sh/rust) |
+| C++ Developer | [roadmap.sh/cpp](https://roadmap.sh/cpp) |
+| C# Developer | [roadmap.sh/csharp](https://roadmap.sh/csharp) |
+| PHP Developer | [roadmap.sh/php](https://roadmap.sh/php) |
+| Ruby Developer | [roadmap.sh/ruby](https://roadmap.sh/ruby) |
+| Component-driven User Interfaces | [roadmap.sh/component-driven-ui](https://roadmap.sh/component-driven-ui) |
+| **Фреймворки та Бібліотеки (Frameworks)** | |
+| React Developer | [roadmap.sh/react](https://roadmap.sh/react) |
+| Vue.js Developer | [roadmap.sh/vue](https://roadmap.sh/vue) |
+| Angular Developer | [roadmap.sh/angular](https://roadmap.sh/angular) |
+| Node.js Backend Developer | [roadmap.sh/nodejs](https://roadmap.sh/nodejs) |
+| Spring Boot (Java) Developer | [roadmap.sh/spring-boot](https://roadmap.sh/spring-boot) |
+| ASP.NET Core Developer | [roadmap.sh/aspnet-core](https://roadmap.sh/aspnet-core) |
+| Laravel (PHP) Developer | [roadmap.sh/laravel](https://roadmap.sh/laravel) |
+| Django (Python) Developer | [roadmap.sh/django](https://roadmap.sh/django) |
+| Next.js Developer | [roadmap.sh/nextjs](https://roadmap.sh/nextjs) |
+| NestJS Developer | [roadmap.sh/nestjs](https://roadmap.sh/nestjs) |
+| Tailwind CSS | [roadmap.sh/tailwind](https://roadmap.sh/tailwind) |
+| Flutter (Mobile) Developer | [roadmap.sh/flutter](https://roadmap.sh/flutter) |
+| React Native Developer | [roadmap.sh/react-native](https://roadmap.sh/react-native) |
+| SolidJS Tracker | [roadmap.sh/solidjs](https://roadmap.sh/solidjs) |
+| Svelte Developer | [roadmap.sh/svelte](https://roadmap.sh/svelte) |
+| **Інфраструктура, Хмари та Інструменти (Cloud, DevOps & Tools)** | |
+| Linux Administration | [roadmap.sh/linux](https://roadmap.sh/linux) |
+| Git & GitHub Guide | [roadmap.sh/git-github](https://roadmap.sh/git-github) |
+| Docker Fundamentals | [roadmap.sh/docker](https://roadmap.sh/docker) |
+| Kubernetes Ecosystem | [roadmap.sh/kubernetes](https://roadmap.sh/kubernetes) |
+| AWS Cloud Engineer | [roadmap.sh/aws](https://roadmap.sh/aws) |
+| Azure Cloud Engineer | [roadmap.sh/azure](https://roadmap.sh/azure) |
+| Google Cloud Platform (GCP) | [roadmap.sh/gcp](https://roadmap.sh/gcp) |
+| Terraform (IaC) | [roadmap.sh/terraform](https://roadmap.sh/terraform) |
+| Nginx Server Config | [roadmap.sh/nginx](https://roadmap.sh/nginx) |
+| GraphQL API Track | [roadmap.sh/graphql](https://roadmap.sh/graphql) |
+| **Комп'ютерні науки та Фундаментальні знання (Computer Science Basics)** | |
+| Computer Science Fundamental Degree | [roadmap.sh/computer-science](https://roadmap.sh/computer-science) |
+| Data Structures & Algorithms (DSA) | [roadmap.sh/datastructures-and-algorithms](https://roadmap.sh/datastructures-and-algorithms) |
+| System Design Advanced | [roadmap.sh/system-design](https://roadmap.sh/system-design) |
+| Design Patterns & Principles | [roadmap.sh/design-patterns](https://roadmap.sh/design-patterns) |
+| SQL Fundamentals | [roadmap.sh/sql](https://roadmap.sh/sql) |
+| REST API Design & Architecture | [roadmap.sh/api-design](https://roadmap.sh/api-design) |
+| **Найкращі практики та Архітектура (Best Practices)** | |
+| API Security practices | [roadmap.sh/best-practices/api-security](https://roadmap.sh/best-practices/api-security) |
+| Backend Performance checklist | [roadmap.sh/best-practices/backend-performance](https://roadmap.sh/best-practices/backend-performance) |
+| Frontend Performance optimization | [roadmap.sh/best-practices/frontend-performance](https://roadmap.sh/best-practices/frontend-performance) |
+| Code Review Architecture | [roadmap.sh/best-practices/code-review](https://roadmap.sh/best-practices/code-review) |
+| AWS Architecture Best Practices | [roadmap.sh/best-practices/aws](https://roadmap.sh/best-practices/aws) |
+| **Спеціалізовані та Ком'юніті Роадмапи (Community Core & Advanced)** | |
+| DevSecOps Track | [roadmap.sh/r/devsecops](https://roadmap.sh/r/devsecops) |
+| Site Reliability Engineer (SRE) | [roadmap.sh/sre](https://roadmap.sh/sre) |
+| Blockchain Developer | [roadmap.sh/blockchain](https://roadmap.sh/blockchain) |
+| Web3 Engineer | [roadmap.sh/web3](https://roadmap.sh/web3) |
+| Embedded Systems Engineer | [roadmap.sh/embedded](https://roadmap.sh/embedded) |
+| Faststream & Asynchronous Messaging | [roadmap.sh/r/faststream-messaging](https://roadmap.sh/r/faststream-messaging) |
+| Web & App Accessibility (a11y) | [roadmap.sh/r/accessibility](https://roadmap.sh/r/accessibility) |
+| Clean Architecture & DDD Patterns | [roadmap.sh/r/clean-architecture-ddd](https://roadmap.sh/r/clean-architecture-ddd) |
+| Full Stack Python Developer | [roadmap.sh/r/fullstack-python](https://roadmap.sh/r/fullstack-python) |
+| Advanced Linux Kernel & Tweaking | [roadmap.sh/r/linux-kernel-tuning](https://roadmap.sh/r/linux-kernel-tuning) |
+| Network Security Engineer | [roadmap.sh/r/network-security](https://roadmap.sh/r/network-security) |
+| System Administrator | [roadmap.sh/r/system-administrator](https://roadmap.sh/r/system-administrator) |
+| Robotics Software Engineer | [roadmap.sh/r/robotics-software-engineer](https://roadmap.sh/r/robotics-software-engineer) |
+| Solution Architect Enterprise | [roadmap.sh/r/solution-architect](https://roadmap.sh/r/solution-architect) |
+| Performance Testing & Chaos Eng. | [roadmap.sh/r/performance-testing](https://roadmap.sh/r/performance-testing) |
+| Microservices Architecture | [roadmap.sh/r/microservices](https://roadmap.sh/r/microservices) |
+| Linux Hyprland & Wayland Compositor | [roadmap.sh/r/wayland-hyprland](https://roadmap.sh/r/wayland-hyprland) |
+| Advanced C++ Extended | [roadmap.sh/r/cpp-extended](https://roadmap.sh/r/cpp-extended) |
+| Python Backend with Asyncio | [roadmap.sh/r/python-async-backend](https://roadmap.sh/r/python-async-backend) |
+| Data Quality & Governance Analyst | [roadmap.sh/r/data-governance](https://roadmap.sh/r/data-governance) |
+| Hardware Security & Cryptography | [roadmap.sh/r/hardware-security](https://roadmap.sh/r/hardware-security) |
+| Game Engine Architecture (C++) | [roadmap.sh/r/game-engine-dev](https://roadmap.sh/r/game-engine-dev) |
+| Cloud Native Security | [roadmap.sh/r/cloud-native-security](https://roadmap.sh/r/cloud-native-security) |
+| Reverse Engineering & Malware Dev | [roadmap.sh/r/reverse-engineering](https://roadmap.sh/r/reverse-engineering) |
+| Observability & Distributed Tracing | [roadmap.sh/r/observability-tracing](https://roadmap.sh/r/observability-tracing) |
+| Enterprise Java (Spring Boot Advanced) | [roadmap.sh/r/java-spring-enterprise](https://roadmap.sh/r/java-spring-enterprise) |
+| UI/UX Design System Architect | [roadmap.sh/r/design-systems](https://roadmap.sh/r/design-systems) |
+| CI/CD Gitolite & Advanced Pipelines | [roadmap.sh/r/advanced-cicd](https://roadmap.sh/r/advanced-cicd) |
+
+</details>
+
+<details>
+
 <summary> <b>Актуальні посилання</b> </summary>
 <div align="center">
   <img src="images/links.png"

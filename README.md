@@ -103,6 +103,16 @@
 </details>
 
 <details>
+<summary> <b>Посібники</b> </summary>
+
+<div align="center">
+  <img src="images/guides.png">
+</div>
+
+[Prompt Engineering Guide](/materials/prompt_engineering_guide.pdf)
+</details>
+
+<details>
 
 <summary> <b>100+ Роадмапів для ІТ-спеціальностей</b> </summary>
 

@@ -110,6 +110,8 @@
 </div>
 
 [Prompt Engineering Guide](/materials/prompt_engineering_guide.pdf)
+[Prompt Injection Guide](/materials/prompt_injection_security_guide.pdf)
+
 </details>
 
 <details>

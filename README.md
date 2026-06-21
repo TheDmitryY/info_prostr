@@ -108,7 +108,7 @@
 <div align="center">
   <img src="images/guides.png">
 </div>
-
+<br />
 [Prompt Engineering Guide](/materials/prompt_engineering_guide.pdf)
 <br />
 [Prompt Injection Guide](/materials/prompt_injection_security_guide.pdf)
